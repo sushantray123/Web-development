@@ -127,7 +127,6 @@ h3 {
 }
 
 
-
 .project-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -156,7 +155,6 @@ h3 {
 .project-card-content {
     padding: 20px;
 }
-
 
 .skills-section {
     background: #ffffff;
